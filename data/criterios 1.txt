@@ -1,0 +1,12 @@
+chequear numeración de lance (que no se salteen) (HECHO)
+empezar siempre en el lance 1 (HECHO)
+cehquear los menore en tipo numerico y mayores (mayor al número indicado) HECHO
+EAME-->cubos HECHO
+EAC & EME-->cajas HECHO
+nombres comunes/científicos duplicados en viajes HECHO
+la hora inicial tiene que ser mayor a la final dentro de un lance
+las hora final de un lance no puede ser mayor que la inicial del lance siguiente HECHO
+validar posiciones iniciales finales: no pueden estar más lejos de DxV
+las capturas totales de tallas deben ser iguales a las de compese
+validación de peso teórico
+Las fechas de captura tienen que ser menores o iguales al desembarque
